@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+⚡ Fun fact: For AI image generation you can use pollinations
+
+
 <!--
 **gustavoroquenapo-lab/gustavoroquenapo-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
